@@ -2,7 +2,7 @@ Ini adalah repository pertama saya
 Nama    : Kinanti puspasari amadita
 NIM     : 264107060139
 Kelas   : SIB - 1F
-## Hasil Uji Studi Kasus 2 oleh <Lintang Dwining Christyarni>
+## Hasil Uji Studi Kasus 2 oleh Lintang Dwining Christyarni
 
 | No | Jenis | Dokumen | Juara/Dana | Output | Sesuai? |
 |---|---|---:|---|---|---|
